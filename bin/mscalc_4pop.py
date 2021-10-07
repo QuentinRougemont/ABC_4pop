@@ -1,10 +1,10 @@
-#!/usr/bin/pypy
+#!/usr/bin/env pypy
 
-# #!/gepv/home2/croux/bin/pypy
-# #!/home/roux/bin/pypy
+# #!/gpfs/fs1/home/b/blouis/quentin/env_abc/pypy3.7-v7.3.5-linux64/bin/pypy3
+# #!/usr/bin/pypy
+
 
 # #!/usr/bin/pypy
-## #!/usr/bin/python
 
 
 
