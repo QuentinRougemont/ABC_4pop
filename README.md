@@ -35,7 +35,8 @@ Prior distributions will feed the coalescent simulator [msnsam](https://github.c
 Values for all parameters are written in the file **priorfile.txt**, one line per multilocus simulations.  
 
 **model2**
-![model2](https://github.com/popgenomics/ABC_4pop/blob/master/pictures/model.4pop.mig.png)  
+
+![model2](https://github.com/QuentinRougemont/ABC_4pop/blob/master/pictures/model.4pop.mig.png)  
 
 This model is in fact the exact same as above but contains the possiblity for migration between A↔B and C↔D.  
 So it contains a bit more parameters (**MA←B**, **MB←A**, **MC←D** and **MD←C**).
