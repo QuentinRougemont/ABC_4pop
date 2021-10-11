@@ -66,8 +66,7 @@ Summary statistics are directly computed from the [msnsam](https://github.com/ro
 | __FST XY__             |  FST between X and Y compute as 1-(pi_X + pi_Z) / (2*pi_XY)                                                        |
 | __D XY_Z__             |  ABBA-BABA’s D statistics where pop_1 = X, pop_2 = Y and pop_3 = Z          |
 | __fd XY_Z__            |  ABBA-BABA’s fd statistics where pop_1 = X, pop_2 = Y and pop_3 = Z         |
-
-new statistics!
+|__new statistics__:  |                                                                    |
 | __D FO__            |  ABBAA-BABAA’s D statistics corresponding to P1/3 vs P1/P4         |
 | __D IL__            |  ABBAA-BABAA’s D statistics corresponding to P2/3 vs P2/P4         |
 | __D FI__            |  ABBAA-BABAA’s D statistics corresponding to P1/3 vs P2/P3         |
